@@ -1,0 +1,10 @@
+__pycache__/
+*.pth
+*.pyc
+*.egg-info/
+.env
+venv/
+.streamlit/
+*.zip
+*.pt
+.DS_Store
