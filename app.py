@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║   BiasLens — Universal Dataset Bias Analyzer                 ║
+║   BiasLens                                                   ║
 ║   Upload any CSV → instant fairness audit + mitigation       ║
 ║   Author  : Ananyaa P                                        ║
 ║   Roll No : 2127220501014                                    ║
